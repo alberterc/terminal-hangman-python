@@ -1,4 +1,4 @@
-# terminal-hangman-python
+# Terminal Hangman in Python
 Simple and basic hangman game played in terminal (doesn't have any fancy GUIs)
 
 ## Features

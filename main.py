@@ -13,7 +13,6 @@ def init_hangman_game():
     global wrong_letter_count
     global already_guessed_letter
     global guessed_letter
-    global score
     global length_of_chosen_word
     global display_word
     global mistakes_limit
@@ -28,7 +27,6 @@ def init_hangman_game():
     wrong_letter_count = 0
     already_guessed_letter = []
     guessed_letter = ''
-    score = 0
     length_of_chosen_word = len(current_active_word)
     display_word = '_' * length_of_chosen_word
     mistakes_limit = 6

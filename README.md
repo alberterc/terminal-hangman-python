@@ -25,4 +25,4 @@ Simple and basic hangman game played in terminal (doesn't have any fancy GUIs)
 ![image](https://user-images.githubusercontent.com/85069947/125205331-deca0a80-e2ab-11eb-8922-d064f03f1296.png)
 
 ## Developer
-Albert E (RadX) vradnisntlong@gmail.com
+Albert E (albertenrico.5@gmail.com)
